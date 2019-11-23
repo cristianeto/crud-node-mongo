@@ -1,0 +1,50 @@
+  380  cd first-server/
+  381  clear
+  382  git status
+  383  git add .
+  384  git commit
+  385  cp -R first-server/ modelo-node-express
+  386  cd ..
+  387  cp -R first-server/ modelo-node-express
+  388  cd /Users/cristian/Documents/Onedrive/Nodejs/first-server 
+  389  ls -l
+  390  npm -version
+  391  npm -v
+  392  node -v
+  393  npm -v
+  394  clear
+  395  pwd
+  396  npm init -y
+  397  npm i express
+  398  npm i ejs body-parser
+  399  npm i nodemon -D
+  400  npm start
+  401  npm run dev
+  402  npm run dev
+  403  npm run dev
+  404  npm run dev
+  405  npm run dev
+  406  history 5
+  407  history 100 > comands.txt
+  408  git add .
+  409  git commit 
+  410  /Users/cristian/Downloads/mongodb-macos-x86_64-4.2.1/bin/mongod ; exit;
+  411  brew install mongodb-community@4.2
+  412  sudo brew install mongodb-community@4.2
+  413  brew install mongodb-community@4.2
+  414  brew tap mongodb/brew
+  415  brew install mongodb-community@4.2
+  416  brew services start mongodb-community
+  417  mongo
+  418  ps aux | grep -v grep | grep mongod
+  419  npm init -y
+  420  history
+  421  clear
+  422  npm install express mongoose ejs morgan
+  423  npm i nodemon -D
+  424  node src/app.js 
+  425  npm start
+  426  npm start
+  427  npm run dev
+  428  npm run dev
+  429  history 50 > comandos.txt
